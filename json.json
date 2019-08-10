@@ -1,0 +1,6 @@
+{"images":
+        [
+            {"path": "rose.jpg", "resizeAttribute": "3%", "outputfilename": "my2dNewFile"},
+            {"path": "rose.jpg", "resizeAttribute": "30%", "outputfilename": "my2d2NewFile", "imagefiletype":"png"}
+        ]
+    }
